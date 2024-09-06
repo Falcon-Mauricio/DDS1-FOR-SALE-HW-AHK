@@ -1,5 +1,5 @@
 
-class Propiedad {
+export class Propiedad {
   constructor(id, tipo, tamaño, ambientes, valor, zona) {
     this.id = id;
     this.tipo = tipo;
